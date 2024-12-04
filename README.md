@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonay Armas Suarez</h1>
 <h3 align="center">Soy un gran amante de todas las Tecnologias en Genaral y Estudiante de desarrollo de aplicaciones multiplataforma.</h3>
 
-- 🌱 I’m currently learning **1º De Desarrollo de Aplicaciones Multiplataforma.**
+- 🌱 I’m currently learning **2º De Desarrollo de Aplicaciones Multiplataforma.**
 
 - 💬 Ask me about **Sobre Sistemas Informaticos y Java.**
 
