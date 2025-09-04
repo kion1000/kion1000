@@ -23,7 +23,7 @@ Si quieres hablar sobre:
 
 ### 📫 How to Reach Me
 Correo: [jonay_1986@hotmail.com](mailto:jonay_1986@hotmail.com)  
-LinkedIn / otras redes: *(añade si quieres enlaces)*
+
 
 ---
 
