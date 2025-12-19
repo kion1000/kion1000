@@ -20,7 +20,7 @@
 <ul>
   <li>
     <b>📦 QRuta — Optimización de rutas de reparto (Android)</b><br/>
-    App Android para gestionar paradas y rutas (lectura de albaranes + mapa + planificación).<br/>
+    App Android para gestionar paradas y rutas (albaranes por QR/OCR/manual + mapa + planificación).<br/>
     <b>Stack:</b> Android (Java), Firebase, Google Maps / Routes API, QR/OCR<br/>
     🔗 https://github.com/kion1000/QRutaAppJonay
   </li>
@@ -29,8 +29,8 @@
 <ul>
   <li>
     <b>⚽ Gestión Deportiva — App de gestión para club/equipo (Android)</b><br/>
-    Gestión de jugadores y organización interna en una app práctica.<br/>
-    <b>Stack:</b> Android (Java), persistencia, UI con listas<br/>
+    App práctica para organización del equipo y gestión de jugadores, con interfaz basada en listas.<br/>
+    <b>Stack:</b> Android (Java), persistencia, RecyclerView / UI con listas<br/>
     🔗 https://github.com/kion1000/GestionDeportivaApp
   </li>
 </ul>
@@ -38,12 +38,12 @@
 <ul>
   <li>
     <b>🧩 Proyecto-SCS_2024 — Sistema de Gestión (Demo web)</b><br/>
-    Aplicación web tipo “SCS” para gestionar <b>personal sanitario</b>, <b>pacientes</b> y <b>citas</b>, con <b>roles</b>, <b>reset de contraseña por email</b> y <b>PDF de citación</b>.<br/>
-    <b>Stack:</b> PHP, MySQL/MariaDB, JavaScript, CSS.<br/>
-    <i>Proyecto académico (demo educativa, no afiliado a SCS).</i><br/>
+    Aplicación web tipo “SCS” para personal, pacientes y citas, con roles, reset por email y PDF de citación.<br/>
+    <b>Stack:</b> PHP, MySQL/MariaDB, JavaScript, CSS (email + PDF)<br/>
     🔗 https://github.com/kion1000/Proyecto-SCS_2024
   </li>
 </ul>
+
 
 
 <ul>
