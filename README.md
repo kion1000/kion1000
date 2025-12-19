@@ -1,67 +1,89 @@
-<h1 align="center">Hi 👋, I'm Jonay Armas Suarez</h1>
-<h3 align="center">Apasionado de la tecnología y estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).</h3>
+<h1 align="center">Hi 👋 I'm Jonay Armas Suárez</h1>
 
----
-
-### 🌱 Currently Learning
-Estoy cursando **2º de Desarrollo de Aplicaciones Multiplataforma**, explorando especialmente:
-- Java y desarrollo Android
-- Integración de bases de datos (MySQL, PostgreSQL, Firebase)
-- UI/UX en aplicaciones móviles
-- Desarrollo de videojuegos y proyectos 3D
-
----
-
-### 💬 Ask Me About
-Si quieres hablar sobre:
-- Sistemas Informáticos
-- Programación en Java
-- Desarrollo de aplicaciones móviles y multiplataforma
-- Hardware, Linux y electrónica (Arduino)
-
----
-
-### 📫 How to Reach Me
-Correo: [jonay_1986@hotmail.com](mailto:jonay_1986@hotmail.com)  
-
-
----
-
-### 💻 Languages and Tools
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
-  </a>
+<p align="center">
+  🎓 <b>Finalizando DAM</b> · 📱 <b>Android (Java)</b> · 🗃️ <b>Bases de datos</b> · 🚀 <b>Open to work</b>
 </p>
 
----
+<p align="center">
+  Me enfoco en desarrollo Android y disfruto especialmente todo lo relacionado con <b>datos</b>: modelado, consultas y persistencia bien hecha.
+</p>
 
-### ⚡ Fun Fact
-¡Siempre estoy experimentando con nuevas tecnologías, desde desarrollo móvil hasta impresión 3D y videojuegos!
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonayas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jonayas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jonay_1986@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jonay_1986@hotmail.com-333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<hr/>
+
+<h2>🔥 Featured Projects</h2>
+
+<ul>
+  <li>
+    <b>📦 QRuta — Optimización de rutas de reparto (Android)</b><br/>
+    App Android para gestionar paradas y rutas (lectura de albaranes + mapa + planificación).<br/>
+    <b>Stack:</b> Android (Java), Firebase, Google Maps / Routes API, QR/OCR<br/>
+    🔗 https://github.com/kion1000/QRutaAppJonay
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b>⚽ Gestión Deportiva — App de gestión para club/equipo (Android)</b><br/>
+    Gestión de jugadores y organización interna en una app práctica.<br/>
+    <b>Stack:</b> Android (Java), persistencia, UI con listas<br/>
+    🔗 https://github.com/kion1000/GestionDeportivaApp
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b>🧩 Proyecto-SCS_2024 — Proyecto académico (2024)</b><br/>
+    Proyecto realizado durante el curso (SCS 2024).<br/>
+    🔗 https://github.com/kion1000/Proyecto-SCS_2024
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b>🎮 Juego (pendiente de subir)</b><br/>
+    En cuanto esté presentable, lo subo a GitHub (prometido 😄).
+  </li>
+</ul>
+
+<hr/>
+
+<h2>🧠 What I'm working on now (QRuta)</h2>
+
+<ul>
+  <li>Flujo completo: <b>paradas → mapa → ruta óptima → reordenado de la lista</b></li>
+  <li>Persistencia y sincronización (enfoque <b>offline-first</b> cuando tenga sentido)</li>
+  <li>Robustez: validaciones, anti-duplicados y UX más clara</li>
+  <li>Mantenimiento: código más limpio y fácil de ampliar sin romperlo todo</li>
+</ul>
+
+<hr/>
+
+<h2>🛠 Tech Stack</h2>
+
+<p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-333?style=for-the-badge&logo=android&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-333?style=for-the-badge&logo=arduino&logoColor=white">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-333?style=for-the-badge&logo=unity&logoColor=white">
+</p>
+
+<hr/>
+
+<h2>🧪 About me</h2>
+
+<p>
+  Me encanta todo lo relacionado con <b>datos</b>: desde diseñar estructuras (modelo + relaciones) hasta asegurar una persistencia consistente y rápida.
+  Si una app no guarda datos bien… para mí está a medio hacer 😄
+</p>
+
