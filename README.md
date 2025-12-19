@@ -37,11 +37,14 @@
 
 <ul>
   <li>
-    <b>🧩 Proyecto-SCS_2024 — Proyecto académico (2024)</b><br/>
-    Proyecto realizado durante el curso (SCS 2024).<br/>
+    <b>🧩 Proyecto-SCS_2024 — Sistema de Gestión (Demo web)</b><br/>
+    Aplicación web tipo “SCS” para gestionar <b>personal sanitario</b>, <b>pacientes</b> y <b>citas</b>, con <b>roles</b>, <b>reset de contraseña por email</b> y <b>PDF de citación</b>.<br/>
+    <b>Stack:</b> PHP, MySQL/MariaDB, JavaScript, CSS.<br/>
+    <i>Proyecto académico (demo educativa, no afiliado a SCS).</i><br/>
     🔗 https://github.com/kion1000/Proyecto-SCS_2024
   </li>
 </ul>
+
 
 <ul>
   <li>
