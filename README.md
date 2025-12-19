@@ -74,12 +74,15 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-333?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-333?style=for-the-badge&logo=arduino&logoColor=white">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-333?style=for-the-badge&logo=unity&logoColor=white">
 </p>
+
 
 <hr/>
 
